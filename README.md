@@ -14,7 +14,7 @@
 
 ## Description
 
-This calculator page was designed to allow the user to select whether to add, subtract, multiply or divide in the same field. 
+This calculator page was designed to allow the user to select whether to add, subtract, multiply or divide in the same form. 
 
 ## Setup/Installation Requirements
 
